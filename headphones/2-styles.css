@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+main {
+    background-image: url(./headphones_hero_2.jpg);
+    width: 100vw;
+    height: 70vh;
+    
+
+}
+
+.result{
+    margin-left: 500px;
+    
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+    
+}
+.content {
+    margin-left:300px;
+    margin-top: 100px;
+    color: white;
+
+}
+.image {
+    width: 10vw;
+    height: 20vh;
+}
+ section{
+    background-image: url(./pentagone.png);
+}

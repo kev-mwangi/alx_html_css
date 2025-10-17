@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main {
+    background-color: dimgrey;
+    width: 100vw;
+    height: 30vh;
+} 
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image {
+    width: 2vw;
+    height: 5vh;
+} 
+.rightside{
+    margin-top: 20px;
+    margin-right: 50px;
+    gap: 30px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}

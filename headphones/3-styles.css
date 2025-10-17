@@ -1,0 +1,9 @@
+* {
+    background-size: 50vw, 100vh;
+
+}
+.name {
+    font-weight: 700;
+    font-size: medium;
+    text-decoration: underline;
+}
